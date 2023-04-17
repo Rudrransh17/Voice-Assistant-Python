@@ -1,0 +1,11 @@
+pip install speechrecognition
+
+pip install pyaudio
+
+pip install pyttsx3
+
+pip install selenium
+
+Download chrome driver here-> https://chromedriver.chromium.org/downloads
+
+pip install wolframalpha
